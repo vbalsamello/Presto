@@ -1,0 +1,272 @@
+﻿@model Presto.Models.Simulacion
+
+@{
+    ViewBag.Title = "Simulaciones Listado";
+}
+
+<div class="content-wrapper" style="min-height:85vh;">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Simulador
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Simulador </a></li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <div class="row">
+
+            <div class="col-md-4 col-ms-6 col-xs-12">
+
+
+                @using (Html.BeginForm("Create", "Simulaciones"))
+                {
+                    @Html.AntiForgeryToken()
+
+                    @Html.HiddenFor(model => model.ID)
+                    @Html.HiddenFor(model => model.Nombre)
+                    @Html.HiddenFor(model => model.FechaModificacion)
+                    @Html.HiddenFor(model => model.Baja)
+
+                    @Html.ValidationMessageFor(model => model.Prestamo, "", new { @class = "text-danger" })
+                    <div class="info-box bg-blue">
+                        <span class="info-box-icon">$</span>
+
+                        <div class="info-box-content">
+                            <span class="info-box-text">
+                                @Html.LabelFor(model => model.Prestamo)
+                            </span>
+                            <span class="info-box-number">
+                                @Html.EditorFor(model => model.Prestamo, new { htmlAttributes = new { @class = "form-control" } })
+                            </span>
+                        </div>
+                    </div>
+
+                    @Html.ValidationMessageFor(model => model.Interes, "", new { @class = "text-danger" })
+                    <div class="info-box bg-blue">
+                        <span class="info-box-icon">%</span>
+
+                        <div class="info-box-content">
+                            <span class="info-box-text">
+                                @Html.LabelFor(model => model.Interes)
+                            </span>
+                            <span class="info-box-number">
+                                @Html.EditorFor(model => model.Interes, new { htmlAttributes = new { @class = "form-control" } })
+                            </span>
+                        </div>
+                    </div>
+
+                    @Html.ValidationMessageFor(model => model.Meses, "", new { @class = "text-danger" })
+                    <div class="info-box bg-blue">
+                        <span class="info-box-icon"><i class="ion ion-ios-calendar"></i></span>
+
+                        <div class="info-box-content">
+                            <span class="info-box-text">
+                                @Html.LabelFor(model => model.Meses)
+                            </span>
+                            <span class="info-box-number">
+                                @Html.EditorFor(model => model.Meses, new { htmlAttributes = new { @class = "form-control" } })
+
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="text-center">
+                        @if (ViewBag.Mensaje != null && ViewBag.Mensaje != "")
+                        {
+                            <div class="alert alert-warning alert-dismissible">
+                                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                                <h4><i class="icon fa fa-check"></i> @ViewBag.Mensaje!</h4>
+                            </div>
+                        }
+
+                    </div>
+
+                    <div class="btn-group btn-group-justified">
+                        <a href="#" onclick="Simular()" class="btn btn-lg btn-success">Simular</a> 
+                        <a href="#" onclick="$('#btnSubmit').click()" class="btn btn-lg btn-info">Guardar</a>                        
+                    </div>
+
+                    <hr />
+
+                    <p class="text-center">
+                        <a href="#verGrafico">Grafico</a> | 
+                        <a href=@Url.Action("Simulador","Simulaciones", new { nuevo = true}) >Nuevo</a>
+                    </p>
+                    //solo por estetica
+                    <button id="btnSubmit" type="submit" class="hide"></button>
+                }
+            </div>
+            <!-- /.col -->
+            <!-- Left col -->
+            <div class="col-md-8 col-ms-6 col-xs-12">
+                <!-- MAP & BOX PANE -->
+                <!-- /.box -->
+                <div class="row">
+                </div>
+                <!-- /.row -->
+                <!-- TABLE: LATEST ORDERS -->
+                <div class="box box-warning">
+                    <div class="box-header with-border">
+                        <h3 class="box-title">Lista de cuotas</h3>
+
+                        <div class="box-tools pull-right">
+
+                        </div>
+                    </div>
+                    <!-- /.box-header -->
+                    <div class="box-body">
+                        <div class="table-responsive">
+                            <table id="tablaCuotas" class="table no-margin">
+                                <thead>
+                                    <tr>
+                                        <th>nro Cuota</th>
+                                        <th>Pago</th>
+                                        <th>Intereses</th>
+                                        <th>Amortizacion</th>
+                                        <th>Deuda</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr></tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+                        <!-- /.table-responsive -->
+                    </div>
+                    <!-- /.box-body -->
+                    <div class="box-footer clearfix">
+
+                    </div>
+                    <!-- /.box-footer -->
+                </div>
+                <!-- /.box -->
+            </div>
+        </div>
+
+        <hr />
+
+        <div id="verGrafico" class="box box-danger">
+            <div class="box-header with-border">
+                
+                <div class="box-tools pull-right">
+
+                </div>
+            </div>
+            <div class="box-body chart-responsive">
+                <div class="chart" id="revenue-chart" style="height: 300px;"></div>
+            </div>
+            
+            <div class="box-footer">
+                <div class="external-event bg-light-blue" style="max-width: 150px; float:right">Amortizacion</div>
+                <div class="external-event bg-red" style="max-width: 150px; float:right">Interes</div>
+                <div class="external-event bg-green" style="max-width: 150px; float:right">Cuota</div>
+            </div>
+            <!-- /.box-body -->
+        </div>
+
+        <div>
+        </div>
+    </section>
+    <!-- /.content -->
+</div>
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/AdminLTE/plugins/datatables/js")
+    @Scripts.Render("~/Scripts/Tables/Data")
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script src="~/AdminLTE/raphael/raphael.min.js"></script>
+    <script src="~/AdminLTE/morris.js/morris.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            //$("#Interes").mask("99.99");
+            Simular();
+            $('#tablaCuotas').DataTable({
+                "language": {
+                    "lengthMenu": "Mostrar _MENU_ registros por pagina",
+                    "zeroRecords": "No se encontro nada",
+                    "info": "Mostrando pagina _PAGE_ de _PAGES_",
+                    "infoEmpty": "No hay registros disponibles",
+                    "infoFiltered": "(filtrados de _MAX_ total de registros)",
+                    "paginate": {
+                        "first": "Primera",
+                        "last": "Ultima",
+                        "next": "Siguiente",
+                        "previous": "Anterior"
+                    },
+                    "search": "Buscar ",
+                },
+                "paging": true,
+                dom: 'Bfrtip'
+
+            });
+        });
+        
+        function Simular() {
+            $('#tablaCuotas tbody').empty();
+            var prestamo = $("#Prestamo").val();
+            var interes = $("#Interes").val();
+            var meses = $("#Meses").val();
+            interes = (interes / 100) / 12;
+
+            var arregloGrafico = Array();
+
+            var cuota = prestamo * interes / (1 - Math.pow((1 + interes), -1 * meses));
+            var capitalAdeudado = prestamo;
+            $("#tablaCuotas").append("<tr><td>0</td><td></td><td></td><td></td><td>$ " + prestamo + "</td></tr>");
+            for (var i = 1; i <= meses; i++) {
+                var intereCuota = capitalAdeudado * interes;
+                var amortizacion = cuota - intereCuota;
+                capitalAdeudado = capitalAdeudado - amortizacion;
+                var table = document.getElementById("tablaCuotas");
+                var row = table.insertRow();
+                var cellNroCuota = row.insertCell(0);
+                var cellPago = row.insertCell(1);
+                var cellInteres = row.insertCell(2);
+                var cellAmortizacion = row.insertCell(3);
+                var cellDeuda = row.insertCell(4);
+
+                cellNroCuota.innerHTML = i;
+                cellPago.innerHTML = "$ " + cuota.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+                cellInteres.innerHTML = "$ " + intereCuota.toFixed(2);
+                cellAmortizacion.innerHTML = "$ " + amortizacion.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+                cellDeuda.innerHTML = "$ " + capitalAdeudado.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, "$1,");
+
+                arregloGrafico.push({ y: i, itemInteres: intereCuota, itemAmortizacion: amortizacion, itemCuota: cuota });
+                //$("#tablaCuotas").append("<tr><td>" + i + "</td><td>$" + cuota.toFixed(2) + "</td><td>$" + intereCuota.toFixed(2) + "</td><td>$" + amortizacion.toFixed(2) + "</td><td>$" + capitalAdeudado.toFixed(2) + "</td></tr>");
+                
+            }
+            
+                graficarSimulacion(arregloGrafico); 
+            
+        }
+        
+        function graficarSimulacion(arreglo) {
+
+            // AREA CHART
+            var area = new Morris.Line({
+                element: 'revenue-chart',
+                resize: true,
+                data: arreglo,
+                xkey: 'y',
+                ykeys: ['itemInteres', 'itemAmortizacion', 'itemCuota'],
+                labels: ['Interes', 'Amortizacion','Cuota'],
+                lineColors: ['#f56954', '#3c8dbc','#00a65a'],
+                hideHover: 'auto'
+            });
+            
+        }
+    </script>
+
+}

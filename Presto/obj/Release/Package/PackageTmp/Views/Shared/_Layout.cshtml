@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title -Presto</title>
+
+    @Styles.Render("~/AdminLTE/plugins/font-awesome/css")
+    @Styles.Render("~/AdminLTE/plugins/ionicons/css")
+    @Styles.Render("~/AdminLTE/bootstrap/css")
+    @Styles.Render("~/AdminLTE/dist/css")
+    @Styles.Render("~/AdminLTE/dist/css/skins")
+
+</head>
+<!-- ADD THE CLASS layout-top-nav TO REMOVE THE SIDEBAR. -->
+<body class="hold-transition skin-blue layout-top-nav">
+    <div class="wrapper">
+
+        <header class="main-header">
+            <nav class="navbar navbar-static-top">
+                <div class="container">
+                    <div class="navbar-header">
+                        <a href=@Url.Action("Index","Home")  class="navbar-brand">PRE<b>$</b>TO</a>
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
+                        <ul class="nav navbar-nav">
+                            <li class="@ViewBag.Sim"><a href=@Url.Action("Simulador","Simulaciones")>Simulador <span class="sr-only">(current)</span></a></li>
+                            <li class="@ViewBag.ListaSim"><a href=@Url.Action("Index","Simulaciones")>Lista Simulaciones <span class="sr-only">(current)</span></a></li>
+                        </ul>
+
+                            <div class="navbar-form navbar-left">
+                                @using (Html.BeginForm("Buscar", "Simulaciones"))
+                                {
+                                    <div class="form-group">
+                                        <input type="text" name="texto" in="texto" class="form-control" id="navbar-search-input" placeholder="Buscar simulación">
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    <!-- /.navbar-collapse -->
+                    <!-- Navbar Right Menu -->
+                    <div class="navbar-custom-menu">
+                        <ul class="nav navbar-nav">
+                            <!-- Messages: style can be found in dropdown.less-->
+                            @Html.Action("_ultimasSim", "Simulaciones")
+                            <!-- /.messages-menu -->
+                            <!-- User Account Menu -->
+                            @Html.Partial("_LoginPartial")
+
+
+                        </ul>
+                    </div>
+                    <!-- /.navbar-custom-menu -->
+                </div>
+                <!-- /.container-fluid -->
+            </nav>
+        </header>
+        <!-- Full Width Column -->
+        <div class="content-wrapper">
+
+
+            @RenderBody()
+
+            <!-- /.container -->
+        </div>
+        <!-- /.content-wrapper -->
+        <footer class="main-footer">
+            <div class="container">
+                <div class="pull-right hidden-xs">
+                    <b>Version</b> 2.4.0
+                </div>
+                <strong>
+                    Copyright &copy; @DateTime.Now.Year.
+                </strong>
+            </div>
+            <!-- /.container -->
+        </footer>
+    </div>
+    <!-- ./wrapper -->
+
+    @Scripts.Render("~/AdminLTE/plugins/jquery/js")
+    @Scripts.Render("~/AdminLTE/bootstrap/js")
+    @Scripts.Render("~/AdminLTE/plugins/icheck/js")
+    @Scripts.Render("~/AdminLTE/plugins/jquery-validate/js")
+    @Scripts.Render("~/Scripts/Account/Login")
+
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>
+
