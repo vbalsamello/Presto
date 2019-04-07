@@ -1,0 +1,155 @@
+﻿@model IEnumerable<Presto.Models.Simulacion>
+
+@{
+    ViewBag.Title = "Simulaciones Listado";
+}
+
+
+
+<div class="content-wrapper" style="min-height:85vh;">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Simulaciones
+            <small>Listado</small>
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Simulaciones </a></li>
+            <li><a href="#">Listado</a></li>
+        </ol>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+
+        <!-- Default box -->
+        <div class="box box-warning">
+            <div class="box-body">
+
+
+                <table class="table sortTable">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Nombre)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Prestamo)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Interes)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Meses)
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Nombre)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Prestamo)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Interes) %
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Meses)
+                                </td>
+                                <td class="text-right">
+                                    <a href=@Url.Action("Simulador","Simulaciones", new { id = item.ID})>Cargar</a> |
+                                    <a href="#" onclick="$('#btnModal').click(); $('#id').val(@item.ID);$('#nombreSim').text('@item.Nombre')">Eliminar</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+
+            </div>
+
+
+
+            <!-- /.box-footer-->
+        </div>
+        <!-- /.box -->
+
+
+    </section>
+    <!-- /.content -->
+</div>
+
+
+<button id="btnModal" type="button" class="invisible" data-toggle="modal" data-target="#modal-default">
+    Launch Default Modal
+</button>
+
+<div class="modal" id="modal-default">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            @using (Html.BeginForm("DeleteConfirmed", "Simulaciones"))
+            {
+                @Html.AntiForgeryToken()
+
+                <input name="id" id="id" type="hidden" />
+
+
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                    <h4 class="modal-title">Eliminar Simulacion</h4>
+                </div>
+                <div class="modal-body">
+                    <p>Desea eliminar la simulacion: <strong id="nombreSim"></strong></p>
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" value="Aceptar" class="btn btn-danger" />
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                </div>
+            }
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/AdminLTE/plugins/datatables/js")
+    @Scripts.Render("~/Scripts/Tables/Data")
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+
+        $(document).ready(function () {
+            $('.sortTable').DataTable({
+                "language": {
+                    "lengthMenu": "Mostrar _MENU_ registros por pagina",
+                    "zeroRecords": "No se encontro nada",
+                    "info": "Mostrando pagina _PAGE_ de _PAGES_",
+                    "infoEmpty": "No hay registros disponibles",
+                    "infoFiltered": "(filtrados de _MAX_ total de registros)",
+                    "paginate": {
+                        "first": "Primera",
+                        "last": "Ultima",
+                        "next": "Siguiente",
+                        "previous": "Anterior"
+                    },
+                    "search": "Buscar ",
+                },
+                "paging": true,
+                dom: 'Bfrtip'
+            });
+        });
+
+    </script>
+
+}

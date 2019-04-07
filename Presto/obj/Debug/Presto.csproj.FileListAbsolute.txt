@@ -1,0 +1,396 @@
+C:\Users\vanesa\source\repos\Presto\Presto\bin\ApplicationInsights.config
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Presto.dll.config
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Presto.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Presto.pdb
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\csc.exe
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\csc.exe.config
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\csc.rsp
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\csi.exe
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\csi.exe.config
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\csi.rsp
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.AppContext.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Console.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.IO.Compression.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Security.Claims.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.ValueTuple.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\vbc.exe
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\vbc.exe.config
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\vbc.rsp
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\VBCSCompiler.exe
+C:\Users\vanesa\source\repos\Presto\Presto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Antlr3.Runtime.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\EntityFramework.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\EntityFramework.SqlServer.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.Web.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Newtonsoft.Json.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Owin.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Helpers.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Mvc.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Optimization.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Razor.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.WebPages.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.WebPages.Razor.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\WebGrease.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Helpers.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Mvc.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Optimization.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.Razor.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.WebPages.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Web.WebPages.Razor.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Newtonsoft.Json.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Antlr3.Runtime.pdb
+C:\Users\vanesa\source\repos\Presto\Presto\bin\EntityFramework.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\EntityFramework.SqlServer.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.AI.Web.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\System.Web.Helpers.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\System.Web.Mvc.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\System.Web.Optimization.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\System.Web.Razor.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\System.Web.WebPages.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\EntityFramework.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\vanesa\source\repos\Presto\Presto\obj\Debug\Presto.csprojAssemblyReference.cache
+C:\Users\vanesa\source\repos\Presto\Presto\obj\Debug\Presto.csproj.CoreCompileInputs.cache
+C:\Users\vanesa\source\repos\Presto\Presto\obj\Debug\Presto.csproj.CopyComplete
+C:\Users\vanesa\source\repos\Presto\Presto\obj\Debug\Presto.dll
+C:\Users\vanesa\source\repos\Presto\Presto\obj\Debug\Presto.pdb
+F:\Visual Studio\Presto\Presto\bin\ApplicationInsights.config
+F:\Visual Studio\Presto\Presto\bin\Presto.dll.config
+F:\Visual Studio\Presto\Presto\bin\Presto.dll
+F:\Visual Studio\Presto\Presto\bin\Presto.pdb
+F:\Visual Studio\Presto\Presto\bin\roslyn\csc.exe
+F:\Visual Studio\Presto\Presto\bin\roslyn\csc.exe.config
+F:\Visual Studio\Presto\Presto\bin\roslyn\csc.rsp
+F:\Visual Studio\Presto\Presto\bin\roslyn\csi.exe
+F:\Visual Studio\Presto\Presto\bin\roslyn\csi.exe.config
+F:\Visual Studio\Presto\Presto\bin\roslyn\csi.rsp
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.AppContext.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Collections.Immutable.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Console.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.IO.Compression.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.IO.FileSystem.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.IO.Pipes.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Reflection.Metadata.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Security.AccessControl.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Claims.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.ValueTuple.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.XPath.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Visual Studio\Presto\Presto\bin\roslyn\vbc.exe
+F:\Visual Studio\Presto\Presto\bin\roslyn\vbc.exe.config
+F:\Visual Studio\Presto\Presto\bin\roslyn\vbc.rsp
+F:\Visual Studio\Presto\Presto\bin\roslyn\VBCSCompiler.exe
+F:\Visual Studio\Presto\Presto\bin\roslyn\VBCSCompiler.exe.config
+F:\Visual Studio\Presto\Presto\bin\Antlr3.Runtime.dll
+F:\Visual Studio\Presto\Presto\bin\EntityFramework.dll
+F:\Visual Studio\Presto\Presto\bin\EntityFramework.SqlServer.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.DependencyCollector.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.Web.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.WindowsServer.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.ApplicationInsights.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Google.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Web.Infrastructure.dll
+F:\Visual Studio\Presto\Presto\bin\Newtonsoft.Json.dll
+F:\Visual Studio\Presto\Presto\bin\Owin.dll
+F:\Visual Studio\Presto\Presto\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.Helpers.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.Mvc.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.Optimization.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.Razor.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Deployment.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.WebPages.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Razor.dll
+F:\Visual Studio\Presto\Presto\bin\WebGrease.dll
+F:\Visual Studio\Presto\Presto\bin\System.Web.Helpers.xml
+F:\Visual Studio\Presto\Presto\bin\System.Web.Mvc.xml
+F:\Visual Studio\Presto\Presto\bin\System.Web.Optimization.xml
+F:\Visual Studio\Presto\Presto\bin\System.Web.Razor.xml
+F:\Visual Studio\Presto\Presto\bin\System.Web.WebPages.xml
+F:\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Deployment.xml
+F:\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Razor.xml
+F:\Visual Studio\Presto\Presto\bin\Newtonsoft.Json.xml
+F:\Visual Studio\Presto\Presto\bin\Antlr3.Runtime.pdb
+F:\Visual Studio\Presto\Presto\bin\EntityFramework.xml
+F:\Visual Studio\Presto\Presto\bin\EntityFramework.SqlServer.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Google.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Visual Studio\Presto\Presto\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.DependencyCollector.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.WindowsServer.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.AI.Web.xml
+F:\Visual Studio\Presto\Presto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Visual Studio\Presto\Presto\bin\es\System.Web.Helpers.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\System.Web.Mvc.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\System.Web.Optimization.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\System.Web.Razor.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\System.Web.WebPages.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\EntityFramework.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\EntityFramework.SqlServer.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\Visual Studio\Presto\Presto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\Visual Studio\Presto\Presto\obj\Debug\Presto.csprojAssemblyReference.cache
+F:\Visual Studio\Presto\Presto\obj\Debug\Presto.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Presto\Presto\obj\Debug\Presto.csproj.CopyComplete
+F:\Visual Studio\Presto\Presto\obj\Debug\Presto.dll
+F:\Visual Studio\Presto\Presto\obj\Debug\Presto.pdb
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\ApplicationInsights.config
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Presto.dll.config
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Presto.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Presto.pdb
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\csc.exe
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\csc.exe.config
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\csc.rsp
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\csi.exe
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\csi.exe.config
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\csi.rsp
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.AppContext.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Console.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.IO.Compression.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.IO.FileSystem.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.IO.Pipes.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Security.AccessControl.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Claims.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.ValueTuple.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.XPath.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\vbc.exe
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\vbc.exe.config
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\vbc.rsp
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\VBCSCompiler.exe
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Antlr3.Runtime.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\EntityFramework.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\EntityFramework.SqlServer.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.DependencyCollector.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.Web.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.WindowsServer.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.ApplicationInsights.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Google.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Web.Infrastructure.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Newtonsoft.Json.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Owin.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Helpers.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Mvc.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Optimization.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Razor.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Deployment.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.WebPages.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Razor.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\WebGrease.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Helpers.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Mvc.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Optimization.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.Razor.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.WebPages.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Deployment.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Web.WebPages.Razor.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Newtonsoft.Json.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Antlr3.Runtime.pdb
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\EntityFramework.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\EntityFramework.SqlServer.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Google.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.DependencyCollector.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.WindowsServer.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.AI.Web.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\System.Web.Helpers.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\System.Web.Mvc.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\System.Web.Optimization.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\System.Web.Razor.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\System.Web.WebPages.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\EntityFramework.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\obj\Debug\Presto.csprojAssemblyReference.cache
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\obj\Debug\Presto.csproj.CoreCompileInputs.cache
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\obj\Debug\Presto.csproj.CopyComplete
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\obj\Debug\Presto.dll
+E:\Users\vns\Documents\Visual Studio\Presto\Presto\obj\Debug\Presto.pdb
